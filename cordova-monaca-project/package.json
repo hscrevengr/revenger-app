@@ -1,0 +1,21 @@
+{
+  "name": "io.cordova.hellocordova",
+  "displayName": "HelloCordova",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "cordova": {
+    "plugins": {},
+    "platforms": []
+  }
+}
